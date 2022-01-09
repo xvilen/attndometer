@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    } 
+li{
+    border: 7px solid rgba(94, 255, 0, 0.192);
+  
+
+    border-radius: 25px;
+    margin:85px 0px 0px 500px;
+    padding: 0px 10px 4px 14px;
+    width: 400px;  
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.mar{
+    margin: 0px 0px 50px 112px;
+    color: rgb(255, 255, 255);
+    /* justify-content: center; */
+}
+.mar:hover{
+    color: black;
+
+}
+.useer{
+    margin: 0px 0px 1px 22px;
+    padding: 2px 20px 5px 3px;
+    text-align: center;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
+    background: none;
+    border: none;
+    color: rgb(0, 0, 0);
+}
+
+
+.useer:hover { 
+    background-color: rgba(255, 255, 255, 0.322);
+    /* margin: 0px 0px 1px 12px;
+    padding: 2px 20px 5px 12px; */
+    text-align: center;
+
+}
+
+.btni{
+    margin: 0px 0px 1px 75px;
+    padding: 6px 35px 6px 35px;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    background-color: rgb(6, 255, 19);
+
+}
+.btni:hover{
+    margin: 0px 0px 1px 75px;
+    padding: 6px 35px 6px 35px;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    background: none;
+
+}
+
+
+.iconn{
+    color: rgb(0, 0, 0);
+margin: 7px -32px 17px 11px;
+padding: 5px 9px 10px 9px;
+background-color: yellow;
+}
+.iconn:hover{
+    background-color: red;
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.151);
+    border-radius: 7px;
+
+}
